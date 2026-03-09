@@ -1,4 +1,4 @@
-package com.miniSpring.container;
+package com.miniSpring.annotations;
 import java.lang.annotation.*;
 
 @Retention(RetentionPolicy.RUNTIME)
